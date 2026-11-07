@@ -1,0 +1,7 @@
+10001,2,2020-01-01T12:00:00,Food,-25.50,Regular,
+10001,4,2020-01-15T08:30:00,Transport,-15.00,Regular,
+10001,6,2020-03-22T19:00:00,Entertainment,-45.00,ForeignCurrency,85
+10002,8,2020-04-15T14:15:00,Salary,5000.00,Taxable,0.20
+10002,10,2021-05-10T11:00:00,Salary,100.00,Taxable,0.10
+10003,12,2021-05-18T16:20:00,Entertainment,-75.99,ForeignCurrency,85
+10003,14,2022-03-05T07:45:00,Food,-12.50,Regular,
