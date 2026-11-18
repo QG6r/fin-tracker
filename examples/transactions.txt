@@ -1,0 +1,11 @@
+# account id, transaction id, date-time, category, amount, type, extra field
+# Regular: no extra field. Taxable: tax rate. ForeignCurrency: exchange rate to the base currency.
+# Commentable: comments separated by ";". Recurrent: pattern;repeat count (hourly, daily, weekly, biweekly, monthly, yearly).
+10001,1,2023-01-05T09:00:00,Salary,3000.00,Taxable,0.13
+10001,2,2023-01-10T18:30:00,Food,-42.50,Regular,
+10001,3,2023-02-01T10:00:00,Rent,-800.00,Recurrent,monthly;2
+10001,4,2023-02-14T20:00:00,Entertainment,-60.00,Commentable,Dinner;Valentine's day
+10002,5,2023-03-03T12:00:00,Travel,-120.00,ForeignCurrency,0.92
+10003,6,2023-03-15T08:15:00,Salary,2500.00,Taxable,0.13
+10003,7,2023-04-02T14:00:00,Food,-35.20,Commentable,Groceries;Weekly shopping
+10004,8,2024-01-20T11:00:00,Interest,15.75,Regular,
