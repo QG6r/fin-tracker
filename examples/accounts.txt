@@ -1,0 +1,5 @@
+# account id, account type (0 checking, 1 savings, 2 credit), user id
+10001,0,201
+10002,2,201
+10003,0,202
+10004,1,203
